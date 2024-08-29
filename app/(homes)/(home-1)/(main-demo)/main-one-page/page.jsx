@@ -14,7 +14,7 @@ import { mainDemoOnepage } from "@/data/menu";
 
 export const metadata = {
   title:
-    "Home 1 Main Demo Onepage || Resonance &mdash; One & Multi Page React Nextjs Creative Template",
+    "Marnitz Kraal",
   description:
     "Resonance &mdash; One & Multi Page React Nextjs Creative Template",
 };
