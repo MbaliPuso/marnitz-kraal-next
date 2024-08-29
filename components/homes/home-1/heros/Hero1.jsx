@@ -25,7 +25,7 @@ export default function Hero1() {
                   className="section-caption mb-30 mb-xs-10 wow fadeInUp"
                   data-wow-duration="1.2s"
                 >
-                  Resonance Creative Studio
+                 Escape to Serenity at Marnitz Kraal Lodge
                 </h2>
                 <h1 className="hs-title-1 mb-30">
                   <AnimatedText
@@ -38,8 +38,8 @@ export default function Hero1() {
                   data-wow-delay="0.6s"
                   data-wow-duration="1.2s"
                 >
-                  Resonance is a full-service creative studio creating beautiful
-                  digital experiences and products.
+                  Discover a sanctuary where nature meets comfort. Whether you're seeking adventure or
+                  tranquility, our lodge is the perfect getaway.
                 </p>
                 <div
                   className="local-scroll mt-n10 wow fadeInUp wch-unset"
@@ -51,7 +51,7 @@ export default function Hero1() {
                     href="#about"
                     className="btn btn-mod btn-large btn-round btn-hover-anim align-middle me-2 me-sm-5 mt-10"
                   >
-                    <span>Discover now</span>
+                    <span>Book now</span>
                   </a>
                   <a
                     onClick={() => setOpen(true)}

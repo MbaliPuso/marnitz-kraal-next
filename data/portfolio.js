@@ -58,8 +58,8 @@ export const portfolios1 = [
     imgSrc: "/assets/images/portfolio/masonry/projects-1.jpg",
     imgAlt: "Work Description",
     delay: "1s",
-    title: "Medium Scene",
-    description: "Lightbox",
+    title: "Single Bed Room Cabin",
+    description: "Standard",
   },
   {
     id: 8,
@@ -69,8 +69,8 @@ export const portfolios1 = [
     imgSrc: "/assets/images/portfolio/masonry/projects-2.jpg",
     imgAlt: "Work Description",
     delay: "1s",
-    title: "Rise of Design",
-    description: "External Page",
+    title: "Double Bed Room Cabin",
+    description: "Standard",
   },
   {
     id: 9,
@@ -80,7 +80,7 @@ export const portfolios1 = [
     imgSrc: "/assets/images/portfolio/masonry/projects-3.jpg",
     imgAlt: "Work Description",
     delay: "1s",
-    title: "Visual Stranger",
+    title: "Suite",
     description: "External Page",
   },
   {
@@ -102,8 +102,8 @@ export const portfolios1 = [
     imgSrc: "/assets/images/portfolio/masonry/projects-5.jpg",
     imgAlt: "Work Description",
     delay: "1s",
-    title: "Super Awards",
-    description: "External Page",
+    title: "Family Room",
+    description: "With Pool",
   },
   {
     id: 12,
